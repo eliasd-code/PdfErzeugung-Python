@@ -1,0 +1,59 @@
+1. **Einleitung**
+   - Kurze Einführung in das Thema
+
+2. **Grundlagen der PDF-Erstellung mit Python**
+   - Installation der erforderlichen Bibliotheken
+   - Erstellen einer einfachen PDF-Datei
+
+3. **Erweiterte PDF-Funktionen**
+   - **Text hinzufügen:**
+     - Überschriften und Textabschnitte
+     - Textformatierung (Schriftart, Größe, Farbe)
+   - **Bilder einfügen:**
+     - Einfügen von Bildern in die PDF
+     - Anpassung der Bildposition und -größe
+   - **Tabellen erstellen:**
+     - Verwendung von Tabellen zur strukturierten Darstellung von Daten
+     - Anpassung von Tabellengröße und -aussehen
+   - **Hyperlinks einfügen:**
+     - Verknüpfung von Text oder Bildern mit Websites oder anderen Dokumenten
+   - **Seitenlayout anpassen:**
+     - Hinzufügen von Seitenrändern und Kopf-/Fußzeilen
+     - Anpassung von Seitenformaten
+
+4. **Codebeispiel in einer .ipynb-Datei**
+   - Führen Sie Schritt-für-Schritt-Beispiele für die PDF-Erstellung und die oben genannten Funktionen durch
+
+6. **Fazit und Ausblick**
+   - Zusammenfassung der wichtigsten Punkte
+   - Potenzial und Einsatzmöglichkeiten von Python in der PDF-Erstellung
+
+7. **Fragen und Diskussion**
+   - Bieten Sie den Zuhörern die Möglichkeit, Fragen zu stellen und diskutieren Sie mögliche Erweiterungen oder Verfeinerungen.
+
+8. **Abschluss**
+   - Danksagung und Verweis auf Ressourcen für weiterführende Informationen
+   - Ermutigen Sie die Zuhörer, PDF-Erstellung mit Python auszuprobieren
+
+
+
+   Nach Beispiel PDF fügen wir dann weitere Beispiele wie z.B das hinzufügen eines Bildes usw hinzu.
+
+
+# Präsentation
+
+1. Einführung
+- Willkommen
+- Thema
+- Start
+2. Warum PDFs in Python erzeugen?
+- Vorteile
+- Nachteile
+3. Welche Libary gibt es so und wieso haben wir uns dafür entschieden
+4. Vorstellung realer Anwendungsfälle
+- Wo braucht man das
+5. Beispiele aus den Bereichen Berichterstellung, Datenausgabe und mehr
+- z.B Firma die das nutzt usw
+6. Ende
+- Fragen
+- Ende
